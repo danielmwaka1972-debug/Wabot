@@ -1,1 +1,0 @@
-echo "worker: node bot.js" > Procfile
